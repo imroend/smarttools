@@ -1,1 +1,20 @@
-
+{
+  "SAMSUNG": {
+    "G570F": {
+      "prePowerCurrent": 0.0,
+      "startCurrent": 0.07,
+      "peakCurrent": 0.62,
+      "kernelSpike": 0.35,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.34,
+      "variance": 0.02,
+      "settleCurrent": 0.42,
+      "timeToPeak": 18263.0,
+      "bootTime": 25049.0,
+      "restartInterval": 0.0,
+      "spikeCount": 1,
+      "loopCount": 0,
+      "postPmicShort": 0
+    }
+  }
+}
