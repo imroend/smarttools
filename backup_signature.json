@@ -16,5 +16,23 @@
       "loopCount": 0,
       "postPmicShort": 0
     }
+  },
+  "OPPO": {
+    "A5S": {
+      "prePowerCurrent": 0.0,
+      "startCurrent": 0.07,
+      "peakCurrent": 0.83,
+      "kernelSpike": 0.36,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.31,
+      "variance": 0.04,
+      "settleCurrent": 0.61,
+      "timeToPeak": 14433.0,
+      "bootTime": 25091.0,
+      "restartInterval": 0.0,
+      "spikeCount": 3,
+      "loopCount": 0,
+      "postPmicShort": 0
+    }
   }
 }
