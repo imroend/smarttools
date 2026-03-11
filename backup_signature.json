@@ -50,5 +50,23 @@
       "loopCount": 0,
       "postPmicShort": 0
     }
+  },
+  "STUCK 1": {
+    "UNISOC": {
+      "prePowerCurrent": 0.0,
+      "startCurrent": 0.03,
+      "peakCurrent": 0.14,
+      "kernelSpike": 0.0,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.11,
+      "variance": 0.0,
+      "settleCurrent": 0.11,
+      "timeToPeak": 329.0,
+      "bootTime": 25073.0,
+      "restartInterval": 0.0,
+      "spikeCount": 0,
+      "loopCount": 0,
+      "postPmicShort": 0
+    }
   }
 }
