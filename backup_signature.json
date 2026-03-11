@@ -90,17 +90,17 @@
   "mediatek": {
     "short power button": {
       "prePowerCurrent": 0.0,
-      "startCurrent": 0.15,
-      "peakCurrent": 0.93,
-      "kernelSpike": 0.45,
+      "startCurrent": 0.39,
+      "peakCurrent": 0.88,
+      "kernelSpike": 0.39,
       "leakCurrent": 0.0,
-      "avgCurrent": 0.52,
-      "variance": 0.03,
-      "settleCurrent": 0.66,
-      "timeToPeak": 23991.0,
-      "bootTime": 25095.0,
+      "avgCurrent": 0.49,
+      "variance": 0.04,
+      "settleCurrent": 0.75,
+      "timeToPeak": 23993.0,
+      "bootTime": 25043.0,
       "restartInterval": 0.0,
-      "spikeCount": 1,
+      "spikeCount": 2,
       "loopCount": 0,
       "postPmicShort": 0
     }
