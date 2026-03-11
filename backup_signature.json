@@ -86,5 +86,23 @@
       "loopCount": 0,
       "postPmicShort": 0
     }
+  },
+  "mediatek": {
+    "short power button": {
+      "prePowerCurrent": 0.0,
+      "startCurrent": 0.15,
+      "peakCurrent": 0.93,
+      "kernelSpike": 0.45,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.52,
+      "variance": 0.03,
+      "settleCurrent": 0.66,
+      "timeToPeak": 23991.0,
+      "bootTime": 25095.0,
+      "restartInterval": 0.0,
+      "spikeCount": 1,
+      "loopCount": 0,
+      "postPmicShort": 0
+    }
   }
 }
