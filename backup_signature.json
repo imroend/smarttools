@@ -15,6 +15,22 @@
       "spikeCount": 1,
       "loopCount": 0,
       "postPmicShort": 0
+    },
+    "G965F": {
+      "prePowerCurrent": 0.0,
+      "startCurrent": 0.09,
+      "peakCurrent": 1.31,
+      "kernelSpike": 0.35,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.47,
+      "variance": 0.04,
+      "settleCurrent": 0.62,
+      "timeToPeak": 8811.0,
+      "bootTime": 25094.0,
+      "restartInterval": 0.0,
+      "spikeCount": 19,
+      "loopCount": 0,
+      "postPmicShort": 0
     }
   },
   "OPPO": {
