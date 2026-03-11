@@ -104,5 +104,23 @@
       "loopCount": 0,
       "postPmicShort": 0
     }
+  },
+  "exinos": {
+    "short power button": {
+      "prePowerCurrent": 0.0,
+      "startCurrent": 0.26,
+      "peakCurrent": 0.61,
+      "kernelSpike": 0.35,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.43,
+      "variance": 0.01,
+      "settleCurrent": 0.42,
+      "timeToPeak": 24358.0,
+      "bootTime": 25088.0,
+      "restartInterval": 0.0,
+      "spikeCount": 1,
+      "loopCount": 0,
+      "postPmicShort": 0
+    }
   }
 }
