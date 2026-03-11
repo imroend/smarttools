@@ -122,5 +122,23 @@
       "loopCount": 0,
       "postPmicShort": 0
     }
+  },
+  "TEST BUTTON SHORT": {
+    "BUTTON SHORT": {
+      "prePowerCurrent": 0.18,
+      "startCurrent": 0.15,
+      "peakCurrent": 0.88,
+      "kernelSpike": 0.35,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.48,
+      "variance": 0.04,
+      "settleCurrent": 0.74,
+      "timeToPeak": 22216.0,
+      "bootTime": 25069.0,
+      "restartInterval": 0.0,
+      "spikeCount": 1,
+      "loopCount": 0,
+      "postPmicShort": 0
+    }
   }
 }
