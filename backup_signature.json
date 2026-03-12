@@ -186,6 +186,21 @@
       "spikeCount": 65,
       "loopCount": 0,
       "postPmicShort": 0
+    },
+    "REDMI 9A": {
+      "prePowerCurrent": 0.0,
+      "startCurrent": 0.05,
+      "peakCurrent": 0.67,
+      "kernelSpike": 0.53,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.2,
+      "variance": 0.02,
+      "settleCurrent": 0.3,
+      "timeToPeak": 20631.0,
+      "restartInterval": 0.0,
+      "spikeCount": 0,
+      "loopCount": 0,
+      "postPmicShort": 0
     }
   }
 }
