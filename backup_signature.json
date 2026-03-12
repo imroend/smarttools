@@ -174,16 +174,16 @@
   "XIAOMI": {
     "X3 NFC": {
       "prePowerCurrent": 0.0,
-      "startCurrent": 0.17,
-      "peakCurrent": 1.57,
-      "kernelSpike": 0.38,
+      "startCurrent": 0.15,
+      "peakCurrent": 1.5,
+      "kernelSpike": 0.4,
       "leakCurrent": 0.0,
       "avgCurrent": 0.66,
       "variance": 0.16,
-      "settleCurrent": 0.52,
-      "timeToPeak": 19421.0,
+      "settleCurrent": 0.53,
+      "timeToPeak": 20109.0,
       "restartInterval": 0.0,
-      "spikeCount": 59,
+      "spikeCount": 65,
       "loopCount": 0,
       "postPmicShort": 0
     }
