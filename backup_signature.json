@@ -206,16 +206,16 @@
   "REALME": {
     "C33": {
       "prePowerCurrent": 0.0,
-      "startCurrent": 0.03,
-      "peakCurrent": 0.82,
-      "kernelSpike": 0.41,
+      "startCurrent": 0.04,
+      "peakCurrent": 0.45,
+      "kernelSpike": 0.35,
       "leakCurrent": 0.0,
-      "avgCurrent": 0.23,
-      "variance": 0.02,
-      "settleCurrent": 0.17,
-      "timeToPeak": 12039.0,
+      "avgCurrent": 0.19,
+      "variance": 0.0,
+      "settleCurrent": 0.2,
+      "timeToPeak": 6630.0,
       "restartInterval": 0.0,
-      "spikeCount": 5,
+      "spikeCount": 0,
       "loopCount": 0,
       "postPmicShort": 0
     }
