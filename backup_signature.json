@@ -201,6 +201,21 @@
       "spikeCount": 0,
       "loopCount": 0,
       "postPmicShort": 0
+    },
+    "REDMI 8A DROP": {
+      "prePowerCurrent": 0.0,
+      "startCurrent": 0.02,
+      "peakCurrent": 0.08,
+      "kernelSpike": 0.0,
+      "leakCurrent": 0.0,
+      "avgCurrent": 0.0,
+      "variance": 0.0,
+      "settleCurrent": 0.0,
+      "timeToPeak": 4990.0,
+      "restartInterval": 0.0,
+      "spikeCount": 0,
+      "loopCount": 0,
+      "postPmicShort": 0
     }
   },
   "REALME": {
